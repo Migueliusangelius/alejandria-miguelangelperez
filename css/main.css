@@ -35,7 +35,7 @@ main{
 
 
 body
-    {background-image: url("/img/imgFondo.jpg")
+    {background-image: url("../img/imgFondo.jpg")
         
     }
 
